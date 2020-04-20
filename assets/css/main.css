@@ -3240,7 +3240,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #5e42a6;
+			background-image: url(../../images/Apple-Park.jpg);
 		}
 
 		.wrapper.style1-alt {
@@ -3874,7 +3874,7 @@ input, select, textarea {
 
 	#intro {
 		background-attachment: fixed;
-		background-image: url("images/intro.svg");
+		background-image: url("../../images/Apple-Park.jpg");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: 100% 100%;
